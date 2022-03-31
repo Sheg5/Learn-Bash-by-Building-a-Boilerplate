@@ -476,3 +476,6 @@ history -a
 find
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+rmdir images/
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
