@@ -624,3 +624,9 @@ history -a
 find website-boilerplate/
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+CLS
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+clear
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
