@@ -147,3 +147,12 @@ history -a
 ls --color=auto
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+touch next.js
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mv next.js index.js
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+touch index.js
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
