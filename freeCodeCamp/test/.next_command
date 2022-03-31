@@ -123,3 +123,12 @@ history -a
 echo hello website
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+touch index.htl
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+rm index.htl
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+touch index.html
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
