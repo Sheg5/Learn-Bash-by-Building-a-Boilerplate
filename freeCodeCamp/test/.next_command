@@ -389,3 +389,12 @@ history -a
 find client/
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+find -help
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+find -h-elp
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+find --help
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
